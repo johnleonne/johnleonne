@@ -22,4 +22,17 @@ Here are some ideas to get you started:
 [![John Leonne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&show_icons=true)](https://github.com/johnleonne/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnleonne&langs_count=8&theme=dark&show_icons=true)](https://github.com/johnleonne/github-readme-stats)
+
+![John Leonne's Github Status](https://github-readme-stats.vercel.app/api?username=johnleonne&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+-->
+
+<!--
+<div align = "center">
+  <hr>
+  
+![John Leonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnleonne&count_private=true&theme=dark&show_icons=true&icon_color=ffff)
+  
+<hr>
+
+</div>
 -->
