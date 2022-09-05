@@ -45,7 +45,7 @@
   
 <!--   O que vai para o perfil -->
 
-## Hello there 👋, My name is John Leonne
+## Hello there, I'm  John Leonne 👋
 
 <img height="50%" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Northern_Lights-banner1.jpg" alt="my banner">
 
