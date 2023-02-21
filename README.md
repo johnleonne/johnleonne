@@ -57,10 +57,10 @@
 <div align = "center">
  
    <hr>
-  
-   ![John Leonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnleonne&theme=dark&show_icons=true&icon_color=ffff&count_private=true)
-  
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnleonne&theme=dark)](https://git.io/streak-stats)
+	
+  <a href="https://github.com/johnleonne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnleonne&theme=dark&show_icons=true&icon_color=ffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=johnleonne&theme=dark"/>
   
    <hr>
 
