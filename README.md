@@ -51,7 +51,7 @@
 
 ### 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning <b>Full Stack Web Development at Trybe</b>.</p>
-<p>📫 How to reach me? <b>johnleonne.dev@gmail.com</b>.</p>
+<p>📫 How to reach me? <b>contato@johnleonne.com</b>.</p>
 <p>🤖 All of my projects are available at  <a href="https://github.com/johnleonne?tab=repositories">repositories</a>.</p>
 
 <div align = "center">
